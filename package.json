@@ -1,25 +1,12 @@
 {
-  "name": "tribaltimes",
+  "name": "tribal-times",
   "version": "1.0.0",
-  "private": true,
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "lucide-react": "^0.368.0",
-    "next": "14.2.4",
-    "react": "^18",
-    "react-dom": "^18"
-  },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.4",
-    "typescript": "^5"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

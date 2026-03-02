@@ -1,0 +1,32 @@
+{
+    "Navigation": {
+        "home": "Home",
+        "national": "National",
+        "kp": "Khyber Pakhtunkhwa",
+        "fata": "Ex-FATA",
+        "politics": "Politics",
+        "business": "Business",
+        "international": "International",
+        "sports": "Sports",
+        "tech": "Technology",
+        "health": "Health",
+        "education": "Education",
+        "opinion": "Opinion",
+        "videos": "Videos"
+    },
+    "Common": {
+        "breakingNews": "Breaking News",
+        "latestNews": "Latest News",
+        "trending": "Trending Posts",
+        "readMore": "Read More",
+        "search": "Search..."
+    },
+    "Footer": {
+        "about": "About Us",
+        "contact": "Contact Us",
+        "privacy": "Privacy Policy",
+        "terms": "Terms & Conditions",
+        "advertise": "Advertise With Us",
+        "aboutText": "Tribal Times is the first newspaper of former FATA, working for the voice of tribal people, covering regional, national and international issues with professional journalism standards."
+    }
+}
